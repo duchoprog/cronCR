@@ -9,7 +9,7 @@ const url = process.env.url;
 const db = process.env.db;
 const username = process.env.user;
 const password = process.env.password;
-const crColonCurrencyId = 41;
+const crColonCurrencyId = 169;
 
 // Create a new Date object
 const today = new Date();
